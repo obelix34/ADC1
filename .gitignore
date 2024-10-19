@@ -1,0 +1,9 @@
+# Ignorer les fichiers de sauvegarde
+*.old
+*.txt
+*.launch
+
+# Ignorer tous les fichiers dans ces répertoires
+Core/Startup/
+Debug/
+Drivers/
